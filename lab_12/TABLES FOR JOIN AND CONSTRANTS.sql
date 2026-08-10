@@ -95,6 +95,7 @@ SELECT * FROM PERSON
 
 
 
+
 CREATE TABLE PUBLISHER
 (
 	PUBLISHERID INT PRIMARY KEY,
@@ -233,7 +234,7 @@ VALUES
 (202 , 'Rohit' , 'Sharma' , 1 , 'Batsman' , 45 , 28),
 (203 , 'Jasprit' , 'Bumrah' , 1 , 'Bowler' , 93 , 26),
 (204 , 'MS' , 'Dhoni' , 2 , 'Wicketkeeper' , 7 , 30),
-(205 , 'Ravindra' , 'Jadeja' , 2 , 'Al-rounder' , 8 , 27),
+(205 , 'Ravindra' , 'Jadeja' , 2 , 'AlL-rounder' , 8 , 27),
 (206 , 'Andre' , 'Russell' , 4 , 'All-rounder' , 12 , 24),
 (207 , 'Sanju' , 'Samson' , 5 , 'Batsman' , 11 , 23),
 (208 , 'Yuzvendra' , 'Chahal' , 5 , 'Bowler' , 3 , 22),
@@ -252,6 +253,7 @@ VALUES
 
 
 SELECT * FROM PLAYER
+
 
 
 

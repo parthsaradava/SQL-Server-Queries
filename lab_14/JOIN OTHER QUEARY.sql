@@ -189,6 +189,3 @@ SELECT * FROM PERSON
 
 	
 	
-
-
-	
